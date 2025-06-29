@@ -1,0 +1,7 @@
+employee_id,full_name,department_id,job_title,salary
+101,Alice Johnson,1,Data Scientist,120000
+102,Bob Williams,1,Data Engineer,135000
+103,Charlie Brown,2,Product Manager,110000
+104,Diana Miller,3,Marketing Specialist,85000
+105,Eve Davis,1,BI Analyst,95000
+106,Frank White,3,Content Creator,78000

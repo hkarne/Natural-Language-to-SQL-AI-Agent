@@ -1,0 +1,6 @@
+pyautogen[gemini]==0.2.35
+python-dotenv
+psycopg2-binary
+streamlit
+pandas
+tabulate
